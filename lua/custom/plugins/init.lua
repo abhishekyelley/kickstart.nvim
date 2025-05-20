@@ -3,7 +3,7 @@
 --
 -- See the kickstart.nvim README for more information
 
-local sound_dir = '~/kenney_interface-sounds/Audio/'
+-- local sound_dir = '~/kenney_interface-sounds/Audio/'
 return {
   {
     'xiyaowong/transparent.nvim',
